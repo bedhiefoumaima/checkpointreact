@@ -1,0 +1,26 @@
+.div {
+  display: flex;
+}
+#Navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#mr-auto my-2 my-lg-0 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.d-block {
+  width: 200 px;
+  height: 200 px;
+}
+.car {
+  width: 200 px;
+  height: 200 px;
+}
+.Carousel.Caption {
+  width: 200 px;
+  height: 200 px;
+}
